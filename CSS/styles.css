@@ -67,6 +67,10 @@ a:hover {
   font-family: "Play", sans-serif;
 }
 
+.modal {
+  padding-left: 0;
+}
+
 .introSub {
   color: #bedbbb;
   opacity: 0.6;
